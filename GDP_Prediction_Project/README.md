@@ -71,3 +71,16 @@ Several studies have used traditional econometric models for GDP prediction. Rec
 - Articles on feature importance in regression models
 - APA format citations for all referenced sources
 
+
+## 📦 Installation
+
+```bash
+# Create environment
+conda create -n rainenv python=3.10
+conda activate rainenv
+
+# Install dependencies
+pip install -r requirements.txt
+
+
+
